@@ -15,3 +15,8 @@ School Project - Educational Purpose
 
 email : admin@example.com
 password : admin
+
+**Standard user Account :**
+
+email : benhur@gmail.com
+password : benhur
